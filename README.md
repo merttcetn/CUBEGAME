@@ -1,4 +1,4 @@
-# BLUE CUBE RUNNER
+# BLUE CUBE RUNNER 🔷
 
 Welcome to **BLUE CUBE RUNNER**, a thrilling running game developed in Unity and C#. Navigate through obstacles and complete all 3 challenging levels!
 
