@@ -2,7 +2,7 @@
 
 Welcome to **BLUE CUBE RUNNER**, a thrilling running game developed in Unity and C#. Navigate through obstacles and complete all 3 challenging levels!
 
-![In-Game GIF](/Users/mertcetin/CUBEGAME/GIF/in-game.gif)
+![In-Game GIF](/GIF/in-game.gif)
 
 ## Game Description
 
@@ -67,12 +67,6 @@ In BLUE CUBE RUNNER, you play as a blue cube with the objective of steering righ
 
 ---
 
-Enjoy playing BLUE CUBE RUNNER! Your feedback and contributions are highly appreciated. Happy gaming!
-
----
-
-### Contact
-
-For any inquiries, please contact us at [your-email@example.com].
+Enjoy playing BLUE CUBE RUNNER! Your feedback is highly appreciated. Happy gaming!
 
 ---
